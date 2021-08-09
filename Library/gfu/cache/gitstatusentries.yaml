@@ -1,0 +1,1014 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-08-09T18:27:34.697+09:00
+  initializedAtString: 2021-08-09T18:27:34.697+09:00
+  entries:
+  - path: Assets/Plugins.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins.meta
+    projectPath: Assets/Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub.meta
+    projectPath: Assets/Plugins/GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor.meta
+    projectPath: Assets/Plugins/GitHub/Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/credits.txt
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/credits.txt
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/credits.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/eula.txt
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/eula.txt
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/eula.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.so
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/libsfw.so
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/sfw.net.dll
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/System.Threading.dll
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/x64.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/x86.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    fullPath: /Users/yanagisawakai/ShaderSample/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/APIUpdater/project-dependencies.graph
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/APIUpdater/project-dependencies.graph
+    projectPath: Library/APIUpdater/project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ArtifactDB
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Artifacts/00/007429cdc8efefe57165e3ded4861c5d
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/00/007429cdc8efefe57165e3ded4861c5d
+    projectPath: Library/Artifacts/00/007429cdc8efefe57165e3ded4861c5d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/09/09f288190c85e788cb16755e7c26c234
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/09/09f288190c85e788cb16755e7c26c234
+    projectPath: Library/Artifacts/09/09f288190c85e788cb16755e7c26c234
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/0e/0efed6312ca6a0c2021624d3093f00f3
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/0e/0efed6312ca6a0c2021624d3093f00f3
+    projectPath: Library/Artifacts/0e/0efed6312ca6a0c2021624d3093f00f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/14/14e8137dad73e8f3552e72cc5a236f18
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/14/14e8137dad73e8f3552e72cc5a236f18
+    projectPath: Library/Artifacts/14/14e8137dad73e8f3552e72cc5a236f18
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/34/341dd9a6b0b7de24aa65b45b40eb239a
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/34/341dd9a6b0b7de24aa65b45b40eb239a
+    projectPath: Library/Artifacts/34/341dd9a6b0b7de24aa65b45b40eb239a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/3a/3a80b68ec0c8459ae77448136e472459
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/3a/3a80b68ec0c8459ae77448136e472459
+    projectPath: Library/Artifacts/3a/3a80b68ec0c8459ae77448136e472459
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/3b/3b306c4c4f85ae046d34901ea538169c
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/3b/3b306c4c4f85ae046d34901ea538169c
+    projectPath: Library/Artifacts/3b/3b306c4c4f85ae046d34901ea538169c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/41/41bd3cf62a75b42e258ff7f014e0a476
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/41/41bd3cf62a75b42e258ff7f014e0a476
+    projectPath: Library/Artifacts/41/41bd3cf62a75b42e258ff7f014e0a476
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/4c/4c80a481c2556eca9afcef2604813ff9
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/4c/4c80a481c2556eca9afcef2604813ff9
+    projectPath: Library/Artifacts/4c/4c80a481c2556eca9afcef2604813ff9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/50/5067187b30333caaa5cfd0476da448ca
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/50/5067187b30333caaa5cfd0476da448ca
+    projectPath: Library/Artifacts/50/5067187b30333caaa5cfd0476da448ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/52/5212b25cb0d9146ee4812de7f584020c
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/52/5212b25cb0d9146ee4812de7f584020c
+    projectPath: Library/Artifacts/52/5212b25cb0d9146ee4812de7f584020c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/55/55ac37f23a4b122100e04384c1911977
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/55/55ac37f23a4b122100e04384c1911977
+    projectPath: Library/Artifacts/55/55ac37f23a4b122100e04384c1911977
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5a/5af2bbd721a9da7522d845ff86482e76
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/5a/5af2bbd721a9da7522d845ff86482e76
+    projectPath: Library/Artifacts/5a/5af2bbd721a9da7522d845ff86482e76
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/6b/6be817483043fec3c80d58997d602dd0
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/6b/6be817483043fec3c80d58997d602dd0
+    projectPath: Library/Artifacts/6b/6be817483043fec3c80d58997d602dd0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/9b/9b08f02dbc0521bf5ad002c295becf0f
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/9b/9b08f02dbc0521bf5ad002c295becf0f
+    projectPath: Library/Artifacts/9b/9b08f02dbc0521bf5ad002c295becf0f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a4/a4336cd2c68469c200f3ed80c0b805cf
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/a4/a4336cd2c68469c200f3ed80c0b805cf
+    projectPath: Library/Artifacts/a4/a4336cd2c68469c200f3ed80c0b805cf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a7/a787c8b5748badce334d44a23e7542d1
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/a7/a787c8b5748badce334d44a23e7542d1
+    projectPath: Library/Artifacts/a7/a787c8b5748badce334d44a23e7542d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ba/baede5e4cf2e404065374423d1e80d2d
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/ba/baede5e4cf2e404065374423d1e80d2d
+    projectPath: Library/Artifacts/ba/baede5e4cf2e404065374423d1e80d2d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/bc/bc8023c260a3e711046c996e6192f42d
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/bc/bc8023c260a3e711046c996e6192f42d
+    projectPath: Library/Artifacts/bc/bc8023c260a3e711046c996e6192f42d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c0/c03059daffd21592bc54470040d9b8b4
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/c0/c03059daffd21592bc54470040d9b8b4
+    projectPath: Library/Artifacts/c0/c03059daffd21592bc54470040d9b8b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c9/c953f4cc10e8dc99c6bb69a454332280
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/c9/c953f4cc10e8dc99c6bb69a454332280
+    projectPath: Library/Artifacts/c9/c953f4cc10e8dc99c6bb69a454332280
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d0/d09800c558d909d837645465b943381b
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/d0/d09800c558d909d837645465b943381b
+    projectPath: Library/Artifacts/d0/d09800c558d909d837645465b943381b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d7/d76ce1bda6674145388e664132da6167
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/d7/d76ce1bda6674145388e664132da6167
+    projectPath: Library/Artifacts/d7/d76ce1bda6674145388e664132da6167
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e7/e788d82e2c0029ab3507e704e743cf9f
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/e7/e788d82e2c0029ab3507e704e743cf9f
+    projectPath: Library/Artifacts/e7/e788d82e2c0029ab3507e704e743cf9f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f0/f0c60340e445049b8dcc38b3992f3156
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/Artifacts/f0/f0c60340e445049b8dcc38b3992f3156
+    projectPath: Library/Artifacts/f0/f0c60340e445049b8dcc38b3992f3156
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/EditorInstance.json
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PackageManager/ProjectCache
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/PackageManager/ProjectCache
+    projectPath: Library/PackageManager/ProjectCache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PackageManager/ProjectCache.md5
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/PackageManager/ProjectCache.md5
+    projectPath: Library/PackageManager/ProjectCache.md5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Rider.Editor.pdb
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/Unity.Rider.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/Unity.Timeline.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.Editor.pdb
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/Unity.Timeline.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.pdb
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/Unity.Timeline.pdb
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VisualStudio.Editor.pdb
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/Unity.VisualStudio.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.VisualStudio.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.TestRunner.pdb
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/UnityEditor.TestRunner.pdb
+    projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.UI.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/UnityEditor.UI.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
+    projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.UI.dll
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ScriptAssemblies/UnityEngine.UI.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ShaderCache/EditorEncounteredVariants
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/ShaderCache/EditorEncounteredVariants
+    projectPath: Library/ShaderCache/EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SourceAssetDB
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: /Users/yanagisawakai/ShaderSample/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs/AssetImportWorker0.log
+    fullPath: /Users/yanagisawakai/ShaderSample/Logs/AssetImportWorker0.log
+    projectPath: Logs/AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs/AssetImportWorker0-prev.log
+    fullPath: /Users/yanagisawakai/ShaderSample/Logs/AssetImportWorker0-prev.log
+    projectPath: Logs/AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs/shadercompiler-AssetImportWorker0.log
+    fullPath: /Users/yanagisawakai/ShaderSample/Logs/shadercompiler-AssetImportWorker0.log
+    projectPath: Logs/shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs/shadercompiler-UnityShaderCompiler1.log
+    fullPath: /Users/yanagisawakai/ShaderSample/Logs/shadercompiler-UnityShaderCompiler1.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs/shadercompiler-UnityShaderCompiler2.log
+    fullPath: /Users/yanagisawakai/ShaderSample/Logs/shadercompiler-UnityShaderCompiler2.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+    projectPath: Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/CompilationLog.txt
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/CompilationLog.txt
+    projectPath: Temp/CompilationLog.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.CollabProxy.Editor.dll.hash
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/Unity.CollabProxy.Editor.dll.hash
+    projectPath: Temp/Unity.CollabProxy.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.Rider.Editor.dll.hash
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/Unity.Rider.Editor.dll.hash
+    projectPath: Temp/Unity.Rider.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.TextMeshPro.dll.hash
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/Unity.TextMeshPro.dll.hash
+    projectPath: Temp/Unity.TextMeshPro.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.TextMeshPro.Editor.dll.hash
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/Unity.TextMeshPro.Editor.dll.hash
+    projectPath: Temp/Unity.TextMeshPro.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.Timeline.dll.hash
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/Unity.Timeline.dll.hash
+    projectPath: Temp/Unity.Timeline.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.Timeline.Editor.dll.hash
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/Unity.Timeline.Editor.dll.hash
+    projectPath: Temp/Unity.Timeline.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.VisualStudio.Editor.dll.hash
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/Unity.VisualStudio.Editor.dll.hash
+    projectPath: Temp/Unity.VisualStudio.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.VSCode.Editor.dll.hash
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/Unity.VSCode.Editor.dll.hash
+    projectPath: Temp/Unity.VSCode.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityEditor.TestRunner.dll.hash
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityEditor.TestRunner.dll.hash
+    projectPath: Temp/UnityEditor.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityEditor.UI.dll.hash
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityEditor.UI.dll.hash
+    projectPath: Temp/UnityEditor.UI.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityEngine.TestRunner.dll.hash
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityEngine.TestRunner.dll.hash
+    projectPath: Temp/UnityEngine.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityEngine.UI.dll.hash
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityEngine.UI.dll.hash
+    projectPath: Temp/UnityEngine.UI.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-00a59950d689b422ea3a7547249a1048
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-00a59950d689b422ea3a7547249a1048
+    projectPath: Temp/UnityTempFile-00a59950d689b422ea3a7547249a1048
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-0ae817b723c3e4b60aabbb960a331084
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-0ae817b723c3e4b60aabbb960a331084
+    projectPath: Temp/UnityTempFile-0ae817b723c3e4b60aabbb960a331084
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-0c622806128e14b8b89913f32c7b6b01
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-0c622806128e14b8b89913f32c7b6b01
+    projectPath: Temp/UnityTempFile-0c622806128e14b8b89913f32c7b6b01
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-12ff35e8c5ca7464d8c5917cc76936f0
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-12ff35e8c5ca7464d8c5917cc76936f0
+    projectPath: Temp/UnityTempFile-12ff35e8c5ca7464d8c5917cc76936f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-14a21c3bfeea64f699221d56a45e02ee
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-14a21c3bfeea64f699221d56a45e02ee
+    projectPath: Temp/UnityTempFile-14a21c3bfeea64f699221d56a45e02ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-19b602bd30c2f48f59ec5262bc3daecb
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-19b602bd30c2f48f59ec5262bc3daecb
+    projectPath: Temp/UnityTempFile-19b602bd30c2f48f59ec5262bc3daecb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-23126351b43d7443cade2d95e8db5340
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-23126351b43d7443cade2d95e8db5340
+    projectPath: Temp/UnityTempFile-23126351b43d7443cade2d95e8db5340
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-41f22dc9f616a420ab3d620510b6fd88
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-41f22dc9f616a420ab3d620510b6fd88
+    projectPath: Temp/UnityTempFile-41f22dc9f616a420ab3d620510b6fd88
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-599e1db71a2b34af5b90f43194086627
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-599e1db71a2b34af5b90f43194086627
+    projectPath: Temp/UnityTempFile-599e1db71a2b34af5b90f43194086627
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-5c92aab66371b4975ba1714c02235f50
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-5c92aab66371b4975ba1714c02235f50
+    projectPath: Temp/UnityTempFile-5c92aab66371b4975ba1714c02235f50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-6fd307aa586c84bb0a20c64f5bbfeab8
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-6fd307aa586c84bb0a20c64f5bbfeab8
+    projectPath: Temp/UnityTempFile-6fd307aa586c84bb0a20c64f5bbfeab8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-784bbbce6bd3648b7a1981479e6b6686
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-784bbbce6bd3648b7a1981479e6b6686
+    projectPath: Temp/UnityTempFile-784bbbce6bd3648b7a1981479e6b6686
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-7a6b2a63458dc4954b0ff3ba519b617e
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-7a6b2a63458dc4954b0ff3ba519b617e
+    projectPath: Temp/UnityTempFile-7a6b2a63458dc4954b0ff3ba519b617e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-86ec627752ff54082ac97869d1411d1b
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-86ec627752ff54082ac97869d1411d1b
+    projectPath: Temp/UnityTempFile-86ec627752ff54082ac97869d1411d1b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-8986b8e232d5d45c2812493d1e7407d6
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-8986b8e232d5d45c2812493d1e7407d6
+    projectPath: Temp/UnityTempFile-8986b8e232d5d45c2812493d1e7407d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-95fe66c7e85974d5a82b1d92b40f423f
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-95fe66c7e85974d5a82b1d92b40f423f
+    projectPath: Temp/UnityTempFile-95fe66c7e85974d5a82b1d92b40f423f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-982d2238b493b4cfcabbbb84fb38e367
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-982d2238b493b4cfcabbbb84fb38e367
+    projectPath: Temp/UnityTempFile-982d2238b493b4cfcabbbb84fb38e367
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9f05e4e2d84c646d5bfedf691ce31de0
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-9f05e4e2d84c646d5bfedf691ce31de0
+    projectPath: Temp/UnityTempFile-9f05e4e2d84c646d5bfedf691ce31de0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b81d304a5c09d4fddb7c17d2a890d7da
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-b81d304a5c09d4fddb7c17d2a890d7da
+    projectPath: Temp/UnityTempFile-b81d304a5c09d4fddb7c17d2a890d7da
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-ba72723c19f124aa4a6d03328daf5e22
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-ba72723c19f124aa4a6d03328daf5e22
+    projectPath: Temp/UnityTempFile-ba72723c19f124aa4a6d03328daf5e22
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d291cefabb5174ba388e7af0bee40741
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-d291cefabb5174ba388e7af0bee40741
+    projectPath: Temp/UnityTempFile-d291cefabb5174ba388e7af0bee40741
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d5ab978c3d0ec4009aafc627ab6e42a5
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-d5ab978c3d0ec4009aafc627ab6e42a5
+    projectPath: Temp/UnityTempFile-d5ab978c3d0ec4009aafc627ab6e42a5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-e7264c7c70a2c48bba8aa21a9db6ed8a
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-e7264c7c70a2c48bba8aa21a9db6ed8a
+    projectPath: Temp/UnityTempFile-e7264c7c70a2c48bba8aa21a9db6ed8a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-eb4e5cd7e037143369075886d8f4f42e
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-eb4e5cd7e037143369075886d8f4f42e
+    projectPath: Temp/UnityTempFile-eb4e5cd7e037143369075886d8f4f42e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f50be212c34a942729bbd15fc4a17526
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-f50be212c34a942729bbd15fc4a17526
+    projectPath: Temp/UnityTempFile-f50be212c34a942729bbd15fc4a17526
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-fbd701261d2b747a283337ff6a9f6e62
+    fullPath: /Users/yanagisawakai/ShaderSample/Temp/UnityTempFile-fbd701261d2b747a283337ff6a9f6e62
+    projectPath: Temp/UnityTempFile-fbd701261d2b747a283337ff6a9f6e62
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
