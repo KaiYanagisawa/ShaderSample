@@ -13,9 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-08-09T18:28:24.173+09:00
-  initializedAtString: 2021-08-09T18:28:24.163+09:00
-  localBranches: []
+  lastUpdatedAtString: 2021-08-11T14:55:04.535+09:00
+  initializedAtString: 2021-08-11T14:55:04.519+09:00
+  localBranches:
+  - name: master
+    tracking: origin/master
+  - name: rimlighting
+    tracking: 
   remoteBranches:
   - name: origin/master
     tracking: '[None]'
@@ -28,8 +32,20 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    - rimlighting
+    values:
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/KaiYanagisawa/ShaderSample.git
+      trackingBranch: master
+    - name: rimlighting
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
   remoteConfigBranches:
     keys:
     - origin
